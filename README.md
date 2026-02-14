@@ -20,3 +20,10 @@
 - Initial design prototypes completed
 - Minor scope adjustments approved
 - Budget remaining: $40,000
+
+***
+
+## Week 4 
+- Major milestone achieved
+- Budget remaining: $30,000
+
